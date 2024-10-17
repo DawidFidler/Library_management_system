@@ -8,7 +8,7 @@ This project is a SQL-based library management system designed to demonstrate sk
 - [Data Insertion](#data-insertion)
 - [Queries](#queries)
 
-  ## Features
+## Features
 - Database Schema: A structured design for managing books, authors, users, categories, borrowings, and ratings.
 - Sample Data: Preloaded data for demo purposes, including authors, books, borrowings, and user ratings.
 - Complex Queries: Advanced SQL queries demonstrating techniques like joins, subqueries, aggregations, and sorting.
