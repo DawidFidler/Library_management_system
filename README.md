@@ -21,4 +21,5 @@ This project is a SQL-based library management system designed to demonstrate sk
 - Borrowings: Information about borrowed books.
 - Categories: Genres or categories of the books.
 - Ratings: User ratings for books.
-![database_schema_library](https://github.com/user-attachments/assets/8268f765-4711-4e7a-8ac9-de61f0ad90b2)
+![Screenshot 2024-10-17 124304](https://github.com/user-attachments/assets/99848d9b-431e-459a-a032-356da7d4c7ef)
+
